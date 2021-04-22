@@ -1,3 +1,7 @@
+# this code is a scraping tool written by Piotr Sapiezynski, my data science professor at Northeastern University. 
+# Check out his website at https://www.sapiezynski.com/ and his twitter at https://twitter.com/sapiezynski/
+# He's a great teacher and he's doing important work with algorithmic transparency and bias detection
+
 import requests
 import re
 import json
