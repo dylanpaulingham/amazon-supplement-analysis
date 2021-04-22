@@ -1,0 +1,5 @@
+Thanks for checking out my Amazon Supplement Analysis project!
+
+This was a a final project for my DS3000 class at Northeastern University in Spring of 2021, taught by Piotr Sapiezynski (sapiezynski.com). I worked on the project with three partners: Rachna Lewis, Jinquian "Sunny" Sun and Garrett Smith. The purpose of the project was to extract relevant data from Amazon supplement product pages and see if we could find a linear regression equation that could predict either sales revenue, sales count or product ranking with a positive r-squared value. Our sales revenue and sales count estimations were based on product price, number of reviews and days since publication (this specifics are included in the .ipynb file). 
+
+This project gave me experience in web scraping, data manipulation, and linear regression, and we succeeded in creating a linear regression algorithm that predicted sales count with an r-squared of 0.05. If you have any questions or comments, feel free to email me at: dylanpaulingham@gmail.com. Thanks for stopping by!
